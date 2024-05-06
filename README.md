@@ -1,6 +1,6 @@
 # Data/Business Analyst Projects
 
-This portfolio contains my 5 most recent projects. Please feel free to take a look and reach out to me if you have questions!
+This portfolio contains my 4 most recent projects. Please feel free to take a look and reach out to me if you have questions!
     
 ### **Project 1: Real Estate Data Cleaning in SQL**
 
