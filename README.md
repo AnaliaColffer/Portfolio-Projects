@@ -22,4 +22,3 @@ This project uses 2 datasets about Women's Soccer World Cups from 1965 to 2019. 
 In this project, I created a database for an online pet store in SQL and conducted ETL. I later used the data to analyze profitability by customer demoghraphics, state, and year.
     https://github.com/AnaliaColffer/Portfolio/blob/main/PetStore%20Database%20Creation%20Query.sql
 
-### **Create Data Visualizations in Power BI**
